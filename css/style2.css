@@ -1,0 +1,22 @@
+html{
+    font-size: 19px;
+}
+main{
+    font-family: monospace;
+}
+h1,h2{
+    color: slateblue;
+}
+p{
+    color:purple;
+}
+.Blue{
+    color:blue;
+}
+#Second{
+    font-style: italic;
+}
+.highlight{
+    text-transform: uppercase;
+    background-color: hotpink;
+}
