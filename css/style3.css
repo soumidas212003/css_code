@@ -1,0 +1,13 @@
+body{
+    font-size: 22px;
+    line-height: 2;
+    font-family: Arial, Helvetica, sans-serif;
+    background: rgb(132, 56, 117);
+    border: 10px solid black;
+}
+p{
+    color: hsla(183, 69%, 44%, 0.975);
+}
+h1,h2{
+    color:bisque;
+}
