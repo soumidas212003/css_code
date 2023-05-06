@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+p{
+    color:blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    width: 40ch;
+}
+body{
+    background-color: goldenrod;
+    border: 5px solid black;
+    min-height: 100vh;
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #bc1270;
+    border: 2px dashed black;
+    width: 50%;
+    font-size:2rem;
+    padding:0.3em;
+}
+main{
+    font-size: 2rem;
+}
